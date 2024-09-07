@@ -5,6 +5,7 @@
 - Handling GET Request
 - Handling POST Request
 - Dynamic Route Handlers
+- Handling PATCH Request
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
