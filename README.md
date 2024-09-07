@@ -7,6 +7,7 @@
 - Handling DELETE Request
 - URL Query Parameters
 - Redirects in Route Handlers
+- Headers in Route Handlers
 
 
 
