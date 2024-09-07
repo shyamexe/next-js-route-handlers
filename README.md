@@ -5,6 +5,7 @@
 - Dynamic Route Handlers
 - Handling PATCH Request
 - Handling DELETE Request
+- URL Query Parameters
 
 
 
